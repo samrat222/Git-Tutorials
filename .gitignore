@@ -1,0 +1,4 @@
+*.log
+/DR/
+static/DR
+DB.accdb
